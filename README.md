@@ -34,4 +34,4 @@ Debian 32-bit with desktop environment (tested with MATE)
 
 ## Guide book
 
-[](https://nju-ics.gitbooks.io/ics2017-programming-assignment/content/)
+[https://nju-ics.gitbooks.io/ics2017-programming-assignment/content/](https://nju-ics.gitbooks.io/ics2017-programming-assignment/content/)
